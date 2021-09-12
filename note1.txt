@@ -1,0 +1,11 @@
+Git push:
+when we want our local repository to our git hub
+we have to do 3 steps 
+first is adding
+second is commit 
+and then push
+In adding, we will add our required file from local machine to staging area they will be ready to be commited.
+In commit we need to move the file from staging area to our local git repository.
+After the above two step we can push file from git repository.
+
+
